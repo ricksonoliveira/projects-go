@@ -33,6 +33,6 @@ func main() {
 	case 3:
 		fmt.Println("Number 3")
 	default:
-		fmt.Println("Default ")
+		fmt.Println("Default")
 	}
 }
