@@ -15,6 +15,16 @@ func main() {
 
 	}
 
+	if variable := 3; b > variable { //OPERADORES:  !== diferente de  &&  and  || ou
+
+		fmt.Println("IF MAIOR")
+
+	} else {
+
+		fmt.Println("ELSE MENOR ")
+
+	}
+
 	num := 10
 
 	switch num {
